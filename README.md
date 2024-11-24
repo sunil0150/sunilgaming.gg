@@ -1,68 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Sunil</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
-    .container {
-      max-width: 700px;
-      margin: 0 auto;
-      background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #4CAF50;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      background: #e8f5e9;
-      margin: 5px 0;
-      padding: 10px;
-      border-radius: 4px;
-    }
-    a {
-      color: #4CAF50;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Hi, I'm Sunil!</h1>
-    <p>I am a passionate <strong>Software Engineer</strong>, <strong>YouTuber</strong>, and <strong>Developer</strong>. I love combining technology and creativity to create meaningful solutions and engaging content.</p>
-    
-    <h2>Skills</h2>
-    <ul>
-      <li>Programming (Web & App Development)</li>
-      <li>Minecraft PvP Strategies</li>
-      <li>Content Creation</li>
-    </ul>
-    
-    <h2>My Mission</h2>
-    <p>To leverage creativity and technology to inspire and entertain through innovative solutions and engaging content.</p>
-    
-    <h2>Connect with Me</h2>
-    <ul>
-      <li>🎮 Join my Discord: <a href="https://dsc.gg/sunilgaming" target="_blank">Sunil Gaming Discord</a></li>
-      <li>📺 Subscribe to my YouTube: <a href="https://www.youtube.com/@Sunilgaming_op" target="_blank">Sunil Gaming on YouTube</a></li>
-    </ul>
-  </div>
-</body>
-</html>
+# 🌟 Welcome to My Website! 👋
+
+Hi there! I'm **Sunil**, a passionate **Software Engineer**, **Developer**, and **YouTuber** who loves blending creativity with technology. This repository hosts the code for my personal website, where you can learn more about my work, gaming content, and passion projects.
+
+---
+
+## 🎮 About Me:
+- 💻 **Developer**: I build innovative software solutions and engaging web experiences.
+- 🎥 **YouTuber**: I share gaming content, tutorials, and PvP strategies. Check out my [YouTube Channel](https://www.youtube.com/@Sunilgaming_op).
+- 🎮 **Gamer**: A PvP enthusiast with a knack for challenging and strategic gameplay.
+
+---
+
+## 🌐 Explore My Website:
+Feel free to explore my website hosted live here: [**Sunil's Website**](https://<your-github-username>.github.io/)
+
+---
+
+## 🔗 Connect with Me:
+- 📺 [YouTube: Sunil Gaming](https://www.youtube.com/@Sunilgaming_op)  
+- 🎮 [Discord: Join My Gaming Server](https://dsc.gg/sunilgaming)  
+
+---
+
+## 🛠️ Technologies I Use:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+---
+
+## 🚀 Mission Statement:
+_"To inspire and entertain by creating exceptional software solutions and sharing engaging gaming content."_  
+
+Let’s build something amazing together! 🚀✨
+
+---
+
+### 📌 Instructions for Running This Website Locally:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo>.git
